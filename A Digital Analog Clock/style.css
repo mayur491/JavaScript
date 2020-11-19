@@ -1,7 +1,7 @@
 /* Layout */
 .main {
     display: flex;
-    padding: 2em;
+    padding: 0em;
     height: 90vh;
     justify-content: center;
     align-items: middle;
@@ -13,6 +13,7 @@
 
 .clockbox,
 #clock {
+    height: 100%;
     width: 100%;
 }
 
