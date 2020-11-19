@@ -1,2 +1,2 @@
-# JavaScript
-Small JavaScript Applications
+# HTML | CSS | JavaScript
+Simple Web Pages
